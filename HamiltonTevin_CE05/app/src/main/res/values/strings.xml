@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HamiltonTevin_CE05</string>
+    <string name="switch_landscape">Please rotate the device to landscape mode</string>
+    <string name="display_empty">The are no people to display.</string>
+    <string name="todo">TODO</string>
+    <string name="refresh">REFRESH</string>
+    <string name="add_student">Add Student</string>
+    <string name="add_a_student">Add an Student</string>
+    <string name="firstName">FirstName</string>
+    <string name="lastName">LastName</string>
+    <string name="id_number">Id Number</string>
+    <string name="add_a_teacher">Add an Teacher</string>
+    <string name="add_teacher">Add Teacher</string>
+    <string name="enter_course">Enter Course Name</string>
+    <string name="add_a_admin">Add an Admin</string>
+    <string name="add_admin">Add Admin</string>
+    <string name="program_name">Enter Program name</string>
+    <string name="empty"> </string>
+    <string-array name="people">
+        <item>Student</item>
+        <item>Teacher</item>
+        <item>Administrator</item>
+    </string-array>
+</resources>
